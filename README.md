@@ -16,6 +16,10 @@ There is a description of how to perform a search, with images. (4 pt)
 insert screen shots 
 type in a search criteria (up to 5 different filters)
 
+![](static/images/UFO1.png)
+
+
+
 Summary:
 Webpage contains a lot of info which can be overwhelming.  The searchable filters allows user to view small chunks of the data.
 
