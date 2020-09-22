@@ -3,9 +3,9 @@ Creating a UFO Sightings Finder Webpage
 # Analysis Overview
 
 Using VS Code, three separate files were created to: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#### 1 create the layout of the webpage (html.index); 
-####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 create the code to populate the webage as well as filter the data (app.js); and 
-#### 3 format the webpage (style.css)
+1. #### 1 create the layout of the webpage (html.index); 
+1. #### 2 create the code to populate the webage as well as filter the data (app.js); and 
+1. #### 3 format the webpage (style.css)
 
 DevTools in Chrome was used to test and debug the code.  The data used to populate the webpage was provided in a .js format.  
 
