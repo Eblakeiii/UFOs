@@ -1,11 +1,13 @@
-# UFO Finder
-Analysis of Creating a UFO Finder Webpage
+# Analysis of Creating a UFO Sightings Finder Webpage
 
+# Analysis Overview
 
-Overview of the analysis:
-VS code as the code editor
-javascript coding language
-created 3 files:  css style sheet; code to run the data; html file to create the webpage layout
+Using VS Code, three separate files were created to: 
+### 1 create the layout of the webpage (html.index); 
+### 2 create the code to populate the webage as well as filter the data (app.js); and 
+### 3 format the webpage (style.css)
+
+DevTools in Chrome was used to test and debug the code.  The data used to populate the webpage was provided in a .js format.  
 
 
 The purpose is well defined (2 pt)
