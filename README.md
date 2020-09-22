@@ -1,4 +1,4 @@
-# Analysis of Creating a UFO Sightings Finder Webpage
+Creating a UFO Sightings Finder Webpage
 
 # Analysis Overview
 
@@ -22,14 +22,11 @@ To view the data, user can scroll down the page to see all the sightings.  If us
 
 ![](static/images/UFO2.png)
 
+# Summary
+The completed webpage contains a vast amount of information, which some could find overwhelming.  Adding the five searchable filters allows user to view small subsets of the data.
 
-# Summary:
-Webpage contains a lot of info which can be overwhelming.  The searchable filters allows user to view small chunks of the data.
+One drawback of the webpage is that the data in the table is in lower case.  If a user entered 'CA' instead of 'ca', an error will occur as the JavaScript is case sensitive.  The same would happen if a city was enter in proper casing (Seattle versus seattle).  
 
-The summary addresses one drawback of this webpage (2 pt)
-data in the table is all lower case and if user entered upper case, filter would fail.
+To address the issue of the case senitivity of search fields, a recommendation is to convert all filter entries into lower case values as well as placing a date mask in the date field.  This way, all text will be searched by lower case letters and user woulbe forced to enter the date correctly.  
 
-The summary addresses two additional recommendations for further development (4 pt)
-convert all entries to lower case to reduce errors
-
-add search feature to comment field.
+A second recommendation to further develop the webpage is to add search feature to comments field.   It would offer additional functionality as well as an additional source of information.  
